@@ -1,5 +1,5 @@
 //AXES: ROLL: RIGHTPOS ; PITCH: UPPOS
-//V0.4 | Early Access | Now with fun goodies: Checksum, high-speed UART, extensive testing (still not safety-rated!)
+//V0.2 | Early Access | Now with fun goodies: Checksum, high-speed UART, extensive testing (still not safety-rated!)
 //TODO | Add Error out via UART (for AHRS health)
 #include <Wire.h>
 #include "ICM_20948.h"
